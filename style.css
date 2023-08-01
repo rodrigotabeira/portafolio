@@ -1,0 +1,115 @@
+body {
+    background-color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2.presentation {
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 300%;
+}
+h2#welcome {
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 350%;
+}
+h3#by {
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100%;
+}
+hr {
+    border: 5px solid whitesmoke;
+    border-radius: 5px;
+}
+img.logo{
+    width: 370px;
+    height: auto;
+    border: 4px whitesmoke solid;
+    border-radius: 15px;
+}
+h2.sections {
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 300%;
+}
+h2.aboutme {
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 300%;
+}
+p.aboutme {
+    color: whitesmoke;
+    text-align: justify;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 140%;
+}
+img.aboutme {
+    width: 200px;
+    height: auto;
+    border: 5px whitesmoke solid;
+    border-radius: 100px;
+    float: left;
+    margin-right: 5%;
+}
+h2.skills {
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 300%;
+}
+ul.skills {
+    color: whitesmoke;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 140%;
+}
+h2.networks {
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 300%;
+}
+.mail i {
+    font-size: 100px;
+    background-color: white;
+    padding: 3px ;
+    box-shadow: 2px 2px 1px grey;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+.twitter i {
+    font-size: 100px;
+    background-color: white;
+    padding: 3px ;
+    box-shadow: 2px 2px 1px grey;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+.linkedin i {
+    font-size: 100px;
+    background-color: white;
+    padding: 3px ;
+    box-shadow: 2px 2px 1px grey;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
